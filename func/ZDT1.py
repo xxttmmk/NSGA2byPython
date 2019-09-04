@@ -35,8 +35,3 @@ if __name__=="__main__":
     zdt1=ZDT1(p)
     print("p",p)
     print(zdt1)
-
-    # print(zdt1.population)
-    # print(zdt1.gFun())
-    # print(zdt1.objFun_1())
-    # print(zdt1.objFun_2())
